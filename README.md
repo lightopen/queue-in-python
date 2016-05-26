@@ -8,6 +8,7 @@ design loop queue by python
     length
     capacity
     count()
+    clear()
     full()
     empty()
     put_in(value)
